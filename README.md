@@ -2,9 +2,8 @@
 
 Presentation Video: https://www.youtube.com/watch?v=t5FJUxC1o5k
 
+![image](https://github.com/SnehalJ8994/Old-Car-Price-Predictor/assets/118697221/1c04d70d-5560-4ca3-987b-4d8933f1ead1)
 
-
-![image](https://github.com/SnehalJ8994/Old-Car-Price-Predictor/assets/118697221/c1895cbc-4681-4825-b86d-547bcb3a3da0)
 Goal: This project acts as a middleman between a “customer” and a “car owner” to help to get a better price for the old car.
 
 
