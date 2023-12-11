@@ -13,10 +13,10 @@ Clone the repository
 Install the required packages in "requirements.txt" file.
 
 # Some packages are:
-# numpy
-# pandas
-# scikit-learn (You will need updated version to run this application)
-# Run the "application.py" file And you are good to go.
+. numpy
+. pandas
+. scikit-learn (You will need updated version to run this application)
+. Run the "application.py" file And you are good to go.
 
 
 # Description:
@@ -26,8 +26,8 @@ This initiative utilizes specific details of a pre-owned vehicle, such as the ma
 
 # How this project created?
 
-1. First of all the data was scraped from Quikr.com (https://quikr.com) Link for data: add
+1. First of all the data was scraped from Quikr.com (https://quikr.com) Link for data: https://github.com/SnehalJ8994/Old-Car-Price-Predictor/blob/main/quikr_car.csv
 2. The data was cleaned (it was unclean and had lots of format errors) and analysed.
-3. Then a Linear Regression model was built on top of it which had 0.92 R2_score.
-4. Link for notebook:
+3. Then a Linear Regression model was built on top of it which had 0.57 R2_score.
+4. Link for notebook:https://github.com/SnehalJ8994/Old-Car-Price-Predictor/blob/main/CAR%20Price%20Predictor%20Updated.ipynb
 5. This initiative was developed as a website utilizing Flask, where the Linear Regression model is employed to carry out the predictions.
