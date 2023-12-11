@@ -14,8 +14,11 @@ Install the required packages in "requirements.txt" file.
 
 # Some packages are:
 . numpy
+
 . pandas
+
 . scikit-learn (You will need updated version to run this application)
+
 . Run the "application.py" file And you are good to go.
 
 
