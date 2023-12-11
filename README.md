@@ -11,11 +11,12 @@ Goal: This project acts as a middleman between a “customer” and a “car own
 
 Clone the repository
 Install the required packages in "requirements.txt" file.
-Some packages are:
-numpy
-pandas
-scikit-learn (You will need updated version to run this application)
-Run the "application.py" file And you are good to go.
+
+# Some packages are:
+# numpy
+# pandas
+# scikit-learn (You will need updated version to run this application)
+# Run the "application.py" file And you are good to go.
 
 
 # Description:
