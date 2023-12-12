@@ -12,6 +12,7 @@ It uses specific details of a pre-owned vehicle, like the manufacturer, model, y
 # How to use?
 1. Clone the Repository: Clone this repository to your local machine.
 2. Install Required Packages: Install the packages listed in the "requirements.txt" file. Key packages include:
+   
 numpy
 
 pandas
